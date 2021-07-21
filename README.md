@@ -17,3 +17,6 @@ Posteriormente debe cambiar las credenciales de usuario y clave en el archivo co
 
 Nota: Agregar el proyecto clonado, debe almacenarlo en la carpeta htdocs del servidor
 ![alt text](https://github.com/SebastianCarvajal/WebService-PHP/blob/main/otros/Captura3.PNG)
+
+
+Este proyecto puede ser consumido con el proyecto ![Consumir-WebService](https://github.com/SebastianCarvajal/Consumir-WebService)
